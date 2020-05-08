@@ -143,3 +143,11 @@ def time_formatter(milliseconds: int) -> str:
         ((str(seconds) + "s, ") if seconds else "") + \
         ((str(milliseconds) + "ms, ") if milliseconds else "")
     return tmp[:-2]
+
+# Sudo Fix by @PhycoNinja13b
+
+def edit_or_reply(client, user_id, text):
+    if user_id in Config.SUDO_USERS:
+        return client.reply(text)
+    else:
+        return client.edit(text)
