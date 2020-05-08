@@ -57,7 +57,6 @@ class Config(object):
     # because of their ephemeral file system
     NO_LOAD = [
         "fwd",
-        "telegraph",
         "gban"
     ]
     # Get your own API key from https://www.remove.bg/ or
@@ -97,6 +96,7 @@ class Config(object):
     #
     LYDIA_API = os.environ.get("LYDIA_API", None)
     #
+    RAVANA_LEELA = os.environ.get("RAVANA_LEELA", None)
     # define "spam" in PMs
     MAX_FLOOD_IN_P_M_s = int(os.environ.get("MAX_FLOOD_IN_P_M_s", 3))
     # leave this blank, should be automatically filled for Heroku.com users
