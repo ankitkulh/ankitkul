@@ -33,7 +33,7 @@ CAPTION_FONT = "Fonts/Tangerine_Bold.ttf"
 async def autopic(event):
     hmm = await edit_or_reply(event, event.from_id, "__Enabling Random Auto PfP__")
     await asyncio.sleep(1)
-    await hmm.edit("**Auto Profile Pic** have been **Activated**\n **No of PPs being used:** 65")
+    await hmm.edit("**Auto Profile Pic** have been **Activated**\n **No of PPs being used:** 100")
 
     pln = 0 # Enough of random shit 😂🤣 Running it in sequence would be better 🤔
     while True:
