@@ -167,7 +167,7 @@ async def _(event):
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
             "`Hacking... 100%\n█████████HACKED███████████ `",
-            "`Targeted Account Hacked...\n\nPay 999$ and a Plate of Biriyani To this Nigga @PhycoNinja13b To Remove This Hack`"
+            "`Targeted Account Hacked...\n\nPay 999$ and a Plate of Biriyani To this Nigga @Lazykilller To Remove This Hack`"
         ]
 
     ed = await edit_or_reply(event, event.from_id, "...")
@@ -316,13 +316,13 @@ async def _(event):
             "`Connecting To Telegram Headquarters...`",
             "`Call Connected.`",
             "`Telegram: Hello This is Telegram HQ. Who is this?`",
-            "`Me: Yo this is` @PhycoNinja13b ,`Please Connect me to Pavel Durov Shukla`",
+            "`Me: Yo this is` @Lazykilller ,`Please Connect me to Pavel Durov Shukla`",
             "`User Authorised.`",
             "`Calling Pavel Durov Shukla (`@durov`) At +916969696969`",
             "`Private  Call Connected...`",
             "`Me: Hello Sir, Please Ban This Telegram Account.`",    
             "`Durov: May I Know Who Is This?`",
-            "`Me: Yo Brah, I Am` @PhycoNinja13b",
+            "`Me: Yo Brah, I Am` @Lazykilller",
             "`Durov: OMG!!! I Am FAN Of You Sar...\nI'll Make Sure That Guy Account Will Get Blocked Within 24Hrs.`",
             "`Me: Thanks, See You Later Brah.`",
             "`Durov: Please Don't Thank Sar, Telegram Is Your's. Just Gimme A Call When You Become Free.`",
