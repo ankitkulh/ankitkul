@@ -43,7 +43,7 @@ async def _(event):
                 
                 force_document=True,
                 allow_cache=False,
-                caption=cmd,
+                
                 
             )
     os.system("rm -rf *.mp3")
