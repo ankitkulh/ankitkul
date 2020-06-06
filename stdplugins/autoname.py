@@ -5,7 +5,8 @@ import asyncio
 import time
 from telethon.tl import functions
 from telethon.errors import FloodWaitError
-from userbot.utils import admin_cmd
+from uniborg.util import admin_cmd
+
 
 
 DEL_TIME_OUT = 60
