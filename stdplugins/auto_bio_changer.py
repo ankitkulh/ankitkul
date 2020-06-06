@@ -6,7 +6,7 @@ import asyncio
 import time
 from telethon import functions
 from telethon.errors.rpcerrorlist import FloodWaitError
-from uniborg.util import admin_ocmd
+from uniborg.util import admin_cmd
 
 
 DEL_TIME_OUT = 70
